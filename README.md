@@ -1,0 +1,3 @@
+- 👋 Hola soy Nelson Garza del 5C
+--🌱Esta Es una practica de GitHub
+- 📫 Es la primera version
